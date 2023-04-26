@@ -2,12 +2,12 @@
 
 This repository contains a collection of RESTful APIs built using the Flask web framework, showcasing the developer's basic proficiency in RESTful API development. The APIs are created using Python and Flask to provide various endpoints to perform different operations. The repository also includes a MySQL folder, where the APIs interact with a MySQL database.
 
-# Technologies Used
+## Technologies Used
 - Flask
 - Python
 - MySQL
 
-# Installation and Usage
+## Installation and Usage
 
 To use this repository, make sure you have Python and Flask installed on your machine. You can install Flask using the following command:
 - pip install flask
