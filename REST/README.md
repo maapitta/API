@@ -2,7 +2,7 @@
 
 This repository contains a collection of REST API examples that I have developed using Python and the Flask web framework. Each example is organized in its own folder, and includes a README.md file with a brief description and instructions on how to run the example.
 
-# Running the examples
+## Running the examples
 - To run any of the examples, follow these steps:
 
 1. Clone the repository to your local machine using git clone https://github.com/maapitta/API.git.
