@@ -51,9 +51,9 @@ Certifique-se de ter instalado as seguintes dependências:
 
 Após iniciar ambos os serviços, você pode testar as rotas do serviço 2 utilizando ferramentas como cURL, Postman ou navegadores.
 
-- **GET /**: Retorna os registros da tabela `TB_ALUNOSS` do serviço 1.
-- **POST /**: Adiciona um novo aluno ao serviço 1.
-- **DELETE /**: Deleta um aluno do serviço 1.
+- **GET: Retorna os registros da tabela `TB_ALUNOSS` do serviço 1.
+- **POST: Adiciona um novo aluno ao serviço 1.
+- **DELETE: Deleta um aluno do serviço 1.
 
 Certifique-se de fornecer os parâmetros corretos na URL para cada rota, como `cust` e `id` quando necessário.
 
